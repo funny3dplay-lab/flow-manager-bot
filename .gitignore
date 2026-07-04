@@ -1,0 +1,8 @@
+node_modules/
+.env
+npm-debug.log*
+logs/*.log
+database/*.db
+exports/*
+imports/*
+backups/*
